@@ -1,1 +1,0 @@
-Hello,my name is Maia, i am studying project management using github. I am student from WEB-043.
